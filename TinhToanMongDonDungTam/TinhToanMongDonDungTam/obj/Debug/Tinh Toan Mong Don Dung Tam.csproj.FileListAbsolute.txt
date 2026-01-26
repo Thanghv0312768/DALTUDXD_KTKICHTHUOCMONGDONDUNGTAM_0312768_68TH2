@@ -1,0 +1,15 @@
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\bin\Debug\Tinh Toan Mong Don Dung Tam.exe.config
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\bin\Debug\Tinh Toan Mong Don Dung Tam.exe
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\bin\Debug\Tinh Toan Mong Don Dung Tam.pdb
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh Toan Mong Don Dung Tam.csproj.AssemblyReference.cache
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\MainWindow.g.cs
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\App.g.cs
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh Toan Mong Don Dung Tam_MarkupCompile.cache
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh Toan Mong Don Dung Tam_MarkupCompile.lref
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\MainWindow.baml
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh Toan Mong Don Dung Tam.g.resources
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh_Toan_Mong_Don_Dung_Tam.Properties.Resources.resources
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh Toan Mong Don Dung Tam.csproj.GenerateResource.cache
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh Toan Mong Don Dung Tam.csproj.CoreCompileInputs.cache
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh Toan Mong Don Dung Tam.exe
+E:\tin học\Tinh Toan Mong Don Dung Tam\Tinh Toan Mong Don Dung Tam\obj\Debug\Tinh Toan Mong Don Dung Tam.pdb
