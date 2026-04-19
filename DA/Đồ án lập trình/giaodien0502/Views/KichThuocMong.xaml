@@ -1,0 +1,49 @@
+﻿<Window x:Class="giaodien0502.Views.KichThuocMong"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Nhập kích thước móng" Height="350" Width="469" 
+        WindowStartupLocation="CenterScreen" Background="#F0F3F4">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="KÍCH THƯỚC MÓNG" FontSize="16" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Foreground="#2E4053" Margin="0,0,0,20"/>
+
+        <GroupBox Header="Thông số móng (đơn vị: mét)" Grid.Row="1" Padding="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                </Grid.RowDefinitions>
+
+                <Label Content="Chiều dài móng (L):"/>
+                <TextBox Name="txtL" Grid.Column="1" Margin="0,4" VerticalContentAlignment="Center" Text="2.0"/>
+
+                <Label Content="Chiều rộng móng (B):" Grid.Row="1"/>
+                <TextBox Name="txtB" Grid.Row="1" Grid.Column="1" Margin="0,4" VerticalContentAlignment="Center" Text="1.5"/>
+
+                <Label Content="Chiều sâu chôn móng (Df):" Grid.Row="2"/>
+                <TextBox Name="txtDf" Grid.Row="2" Grid.Column="1" Margin="0,4" VerticalContentAlignment="Center" Text="1.2"/>
+
+                <Label Content="Chiều cao đài móng (h):" Grid.Row="3"/>
+                <TextBox Name="txth" Grid.Row="3" Grid.Column="1" Margin="0,4" VerticalContentAlignment="Center" Text="0.6"/>
+            </Grid>
+        </GroupBox>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <Button Name="btnLuu" Content="Lưu kích thước" Width="120" Height="30" 
+                    Background="#2980B9" Foreground="White" Click="btnLuuKichThuoc_Click"/>
+            <Button Name="btnHuy" Content="Hủy" Width="80" Height="30" Margin="10,0,0,0" Click="btnHuy_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

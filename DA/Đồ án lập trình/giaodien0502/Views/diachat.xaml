@@ -1,0 +1,72 @@
+﻿<Window x:Class="giaodien0502.Views.diachat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:giaodien0502.Views"
+        mc:Ignorable="d"
+        Title="diachat" Height="600" Width="400">
+    <Grid>
+        <GroupBox Grid.Column="0" Header="Thông số các lớp đất (Địa chất)" Margin="0,0,10,0" Background="White" Padding="10">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="40"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.Resources>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="Margin" Value="0,10,10,10"/>
+                        </Style>
+                        <Style TargetType="TextBox">
+                            <Setter Property="Height" Value="25"/>
+                            <Setter Property="Margin" Value="0,5,5,5"/>
+                            <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        </Style>
+                    </Grid.Resources>
+
+                    <TextBlock Text="Lực dính (c):" Grid.Row="0" Grid.Column="0"/>
+                    <TextBox x:Name="txtLucDinh" Grid.Row="0" Grid.Column="1"/>
+                    <TextBlock Text="kN/m²" Grid.Row="0" Grid.Column="2" Foreground="Gray"/>
+
+                    <TextBlock Text="Góc ma sát (φ):" Grid.Row="1" Grid.Column="0"/>
+                    <TextBox x:Name="txtGocMaSat" Grid.Row="1" Grid.Column="1"/>
+                    <TextBlock Text="độ" Grid.Row="1" Grid.Column="2" Foreground="Gray"/>
+
+                    <TextBlock Text="Dung trọng (γ):" Grid.Row="2" Grid.Column="0"/>
+                    <TextBox x:Name="txtDungTrong" Grid.Row="2" Grid.Column="1"/>
+                    <TextBlock Text="kN/m³" Grid.Row="2" Grid.Column="2" Foreground="Gray"/>
+
+                    <TextBlock Text="Modun đàn hồi (E):" Grid.Row="3" Grid.Column="0"/>
+                    <TextBox x:Name="txtModun" Grid.Row="3" Grid.Column="1"/>
+                    <TextBlock Text="kPa" Grid.Row="3" Grid.Column="2" Foreground="Gray"/>
+
+                    <TextBlock Text="Hệ số Poisson (ν):" Grid.Row="4" Grid.Column="0"/>
+                    <TextBox x:Name="txtPoisson" Grid.Row="4" Grid.Column="1"/>
+
+                    <TextBlock Text="Chiều dày (h):" Grid.Row="5" Grid.Column="0"/>
+                    <TextBox x:Name="txtChieuDay" Grid.Row="5" Grid.Column="1"/>
+                    <TextBlock Text="m" Grid.Row="5" Grid.Column="2" Foreground="Gray"/>
+
+                    <TextBlock Text="Độ sâu MN (h):" Grid.Row="6" Grid.Column="0"/>
+                    <TextBox x:Name="txtDoSau" Grid.Row="6" Grid.Column="1"/>
+                    <TextBlock Text="m" Grid.Row="6" Grid.Column="2" Foreground="Gray"/>
+                </Grid>
+            </ScrollViewer>
+        </GroupBox>
+
+        <Button Content="Lưu dữ liệu" Width="100" Height="20" Margin="150,327,150,87" Click="btnLuu_Click"/>
+    </Grid>
+</Window>

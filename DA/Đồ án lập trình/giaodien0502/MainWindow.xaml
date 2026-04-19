@@ -1,0 +1,142 @@
+﻿<Window x:Class="giaodien0502.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:giaodien0502"
+        mc:Ignorable="d"
+        Title="Kiểm tra kích thước móng đơn đúng tâm" Height="800" Width="1200"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Background="#F3F3F3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="23"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Ribbon Grid.Row="0" Background="White" Margin="0,0,0,646" Grid.RowSpan="3">
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu Label="Tệp" >
+                    <RibbonApplicationMenuItem Header="Tạo mới" />
+                    <RibbonApplicationMenuItem Header="Mở tệp" />
+                    <RibbonApplicationMenuItem Header="Lưu kết quả" />
+                    <RibbonSeparator />
+                    <RibbonApplicationMenuItem Header="Thoát" />
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+
+            <RibbonTab Header="Công cụ Móng">
+                <RibbonGroup Header="Dữ liệu đầu vào">
+                    <RibbonButton Label="Địa chất" 
+                  Click="btnDiaChat_Click" />
+                    <RibbonButton Label="Vật liệu" 
+                  Click="btnVatLieu_Click" />
+                    <RibbonButton Label="Tải trọng" BorderBrush="Gray" 
+                  Click="btnTaiTrong_Click" />
+                    <RibbonButton Label="Kích thước" BorderBrush="Gray" 
+                  Click="btnKichThuoc_Click" />
+                </RibbonGroup>
+
+                <RibbonGroup Header="Xử lý">
+                    <RibbonButton Label="TÍNH TOÁN" 
+                                  Background="#E1F5FE" BorderBrush="#0288D1" FontWeight="Bold"/>
+                </RibbonGroup>
+
+                <RibbonGroup Header="Kết Nối ETABS">
+                    <RibbonButton Label="Kết Nối ETABS" 
+                                  Background="#E1F5FE" BorderBrush="#0288D1" FontWeight="Bold"/>
+                </RibbonGroup>
+                <RibbonGroup Header="Báo cáo">
+                    <RibbonButton Label="Xuất Excel"  BorderBrush="Gray" />
+                    <RibbonButton Label="In Thuyết Minh" BorderBrush="Gray"  />
+                </RibbonGroup>
+            </RibbonTab>
+
+            <RibbonTab Header="Cài đặt hiển thị">
+                <RibbonGroup Header="Bản vẽ">
+                    <RibbonCheckBox Label="Hiển thị 3D" IsChecked="True"/>
+                    <RibbonCheckBox Label="Hiển thị 2D" IsChecked="True"/>
+                </RibbonGroup>
+            </RibbonTab>
+        </Ribbon>
+
+        <Grid Grid.Row="2" Margin="10,10,10,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="24"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="350"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="1" Margin="0,0,10,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <GroupBox Grid.Row="0" Header="HÌNH VẼ MÓNG (3D)" Background="White" Margin="0,0,0,5">
+                    <TextBlock Text="(Khu vực hiển thị 3D)" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#CCC"/>
+                </GroupBox>
+
+                <GroupBox Grid.Row="1" Header="MẶT BẰNG MÓNG (2D)" Background="White" Margin="0,5,0,0">
+                    <TextBlock Text="(Khu vực hiển thị 2D)" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#CCC"/>
+                </GroupBox>
+            </Grid>
+
+            <GroupBox Grid.Column="2" Header="KẾT QUẢ TÍNH TOÁN" Background="White" Padding="10">
+                <StackPanel>
+                    <TextBlock Text="KIỂM TRA NỀN ĐẤT" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                    <Grid Height="78">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="16.453"/>
+                            <RowDefinition Height="18.547"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Text="Áp lực đáy móng (Ptb):" Grid.Row="0" Grid.Column="0" Margin="0,5,10,0" VerticalAlignment="Top"/>
+                        <TextBox x:Name="txtPtb" Grid.Row="0" Height="25" Margin="131,0,0,10" IsReadOnly="True" Background="#F0F0F0" Grid.ColumnSpan="2"/>
+
+                        <TextBlock Text="Cường độ đất nền (R):" Grid.Row="1" Grid.Column="0" Margin="0,5,10,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
+                        <TextBox x:Name="txtR" Grid.Row="1" Height="25" Margin="131,0,0,10" IsReadOnly="True" Background="#F0F0F0" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+                    </Grid>
+
+                    <Border Background="#E8F5E9" BorderBrush="#4CAF50" BorderThickness="1" CornerRadius="3" Padding="10" Margin="0,10,0,20">
+                        <TextBox Text="ĐIỀU KIỆN THỎA MÃN" Foreground="#2E7D32" FontWeight="Bold" HorizontalAlignment="Center"/>
+                    </Border>
+
+                    <Separator Margin="0,0,0,20"/>
+
+                    <TextBlock Text="TÍNH TOÁN CỐT THÉP" FontWeight="Bold" Margin="0,0,0,10"/>
+                    <TextBlock Text="Diện tích thép yêu cầu:" Margin="0,0,0,10"/>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" HorizontalAlignment="Center">
+                            <TextBlock Text="Phương X" HorizontalAlignment="Center" FontSize="11" Foreground="Gray"/>
+                            <Border BorderBrush="Gray" BorderThickness="1" Padding="15,5" Margin="0,5,0,0">
+                                <TextBlock Text="12 Φ 16" FontWeight="Bold" FontSize="14"/>
+                            </Border>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+                            <TextBlock Text="Phương Y" HorizontalAlignment="Center" FontSize="11" Foreground="Gray"/>
+                            <Border BorderBrush="Gray" BorderThickness="1" Padding="15,5" Margin="0,5,0,0">
+                                <TextBlock Text="10 Φ 16" FontWeight="Bold" FontSize="14"/>
+                            </Border>
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+            </GroupBox>
+        </Grid>
+
+    </Grid>
+</Window>
