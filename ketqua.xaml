@@ -1,0 +1,43 @@
+﻿<Window x:Class="giaodien0502.Views.ketqua"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:giaodien0502.Views"
+        mc:Ignorable="d"
+        Title="ketqua" Height="450" Width="800">
+    <Grid>
+        <Grid Background="#F3F3F3" Margin="15">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="BẢNG TỔNG HỢP KẾT QUẢ TÍNH TOÁN MÓNG ĐƠN" 
+                   FontWeight="Bold" FontSize="18" Foreground="#0288D1" 
+                   HorizontalAlignment="Center" Margin="0,0,0,15"/>
+
+            <DataGrid x:Name="dgKetQua" Grid.Row="1" AutoGenerateColumns="False" 
+                  CanUserAddRows="False" IsReadOnly="True" Background="White" 
+                  RowHeight="30" AlternatingRowBackground="#F9F9F9" GridLinesVisibility="All">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="STT" Binding="{Binding STT}" Width="50"/>
+                    <DataGridTextColumn Header="Thông số kiểm tra" Binding="{Binding ThongSo}" Width="250"/>
+                    <DataGridTextColumn Header="Ký hiệu" Binding="{Binding KyHieu}" Width="80"/>
+                    <DataGridTextColumn Header="Giá trị" Binding="{Binding GiaTri}" Width="120"/>
+                    <DataGridTextColumn Header="Đơn vị" Binding="{Binding DonVi}" Width="80"/>
+                    <DataGridTextColumn Header="Điều kiện" Binding="{Binding DieuKien}" Width="120"/>
+                    <DataGridTextColumn Header="Kết luận" Binding="{Binding KetLuan}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+                <Button Content="Xuất Excel" Width="100" Height="32" Margin="0,0,10,0" 
+                    Background="#E8F5E9" BorderBrush="#4CAF50" FontWeight="Bold"/>
+                <Button Content="Đóng" Width="100" Height="32" Click="btnDong_Click" 
+                    Background="#FFEBEE" BorderBrush="#F44336" FontWeight="Bold"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
