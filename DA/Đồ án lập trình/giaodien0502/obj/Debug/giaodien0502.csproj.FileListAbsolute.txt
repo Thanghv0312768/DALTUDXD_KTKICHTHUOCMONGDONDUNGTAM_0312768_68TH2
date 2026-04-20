@@ -1,0 +1,52 @@
+E:\tin học\giaodien0502\giaodien0502\bin\Debug\giaodien0502.exe.config
+E:\tin học\giaodien0502\giaodien0502\bin\Debug\giaodien0502.exe
+E:\tin học\giaodien0502\giaodien0502\bin\Debug\giaodien0502.pdb
+E:\tin học\giaodien0502\giaodien0502\bin\Debug\ETABSv1.dll
+E:\tin học\giaodien0502\giaodien0502\bin\Debug\Microsoft.Win32.Registry.dll
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502.csproj.AssemblyReference.cache
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\MainWindow.g.cs
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\App.g.cs
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502_MarkupCompile.cache
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502_MarkupCompile.lref
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\MainWindow.baml
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502.g.resources
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502.Properties.Resources.resources
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502.csproj.GenerateResource.cache
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502.csproj.CoreCompileInputs.cache
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien.731AB5C5.Up2Date
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502.exe
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\giaodien0502.pdb
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\Views\diachat.g.cs
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\Views\diachat.baml
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\Views\Vatlieuxaml.g.cs
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\Views\Vatlieuxaml.baml
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\Views\KichThuocMong.baml
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\Views\KichThuocMong.g.cs
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\Views\TaiTrong.baml
+E:\tin học\giaodien0502\giaodien0502\obj\Debug\Views\TaiTrong.g.cs
+E:\tin học\Đồ án lập trình\giaodien0502\bin\Debug\giaodien0502.exe.config
+E:\tin học\Đồ án lập trình\giaodien0502\bin\Debug\giaodien0502.exe
+E:\tin học\Đồ án lập trình\giaodien0502\bin\Debug\giaodien0502.pdb
+E:\tin học\Đồ án lập trình\giaodien0502\bin\Debug\ETABSv1.dll
+E:\tin học\Đồ án lập trình\giaodien0502\bin\Debug\Microsoft.Win32.Registry.dll
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502.csproj.AssemblyReference.cache
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\Views\KichThuocMong.baml
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\Views\TaiTrong.baml
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\MainWindow.g.cs
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\Views\diachat.g.cs
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\Views\KichThuocMong.g.cs
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\Views\TaiTrong.g.cs
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\Views\Vatlieuxaml.g.cs
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\App.g.cs
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502_MarkupCompile.cache
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502_MarkupCompile.lref
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\MainWindow.baml
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\Views\diachat.baml
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\Views\Vatlieuxaml.baml
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502.g.resources
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502.Properties.Resources.resources
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502.csproj.GenerateResource.cache
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502.csproj.CoreCompileInputs.cache
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien.731AB5C5.Up2Date
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502.exe
+E:\tin học\Đồ án lập trình\giaodien0502\obj\Debug\giaodien0502.pdb

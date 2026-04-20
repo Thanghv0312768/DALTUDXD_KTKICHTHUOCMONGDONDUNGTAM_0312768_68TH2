@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|e:\\tin h\u1ECDc\\\u0111\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\views\\kichthuocmong.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\views\\kichthuocmong.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\views\\taitrong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\views\\taitrong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\models\\vatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\models\\vatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\views\\vatlieuxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\views\\vatlieuxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\views\\diachat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\views\\diachat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\views\\kichthuocmong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\views\\kichthuocmong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\views\\diachat.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\views\\diachat.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\views\\taitrong.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\views\\taitrong.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8474A3F-D135-473D-8188-A770B4EABDB8}|giaodien0502\\giaodien0502.csproj|solutionrelative:giaodien0502\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vatlieuxaml.xaml",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\Vatlieuxaml.xaml",
+              "RelativeDocumentMoniker": "giaodien0502\\Views\\Vatlieuxaml.xaml",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\Vatlieuxaml.xaml",
+              "RelativeToolTip": "giaodien0502\\Views\\Vatlieuxaml.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T03:51:36.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vatlieu.cs",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\models\\vatlieu.cs",
+              "RelativeDocumentMoniker": "giaodien0502\\models\\vatlieu.cs",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\models\\vatlieu.cs",
+              "RelativeToolTip": "giaodien0502\\models\\vatlieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T03:51:08.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiTrong.xaml",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\TaiTrong.xaml",
+              "RelativeDocumentMoniker": "giaodien0502\\Views\\TaiTrong.xaml",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\TaiTrong.xaml",
+              "RelativeToolTip": "giaodien0502\\Views\\TaiTrong.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T05:42:46.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KichThuocMong.xaml.cs",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\KichThuocMong.xaml.cs",
+              "RelativeDocumentMoniker": "giaodien0502\\Views\\KichThuocMong.xaml.cs",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\KichThuocMong.xaml.cs",
+              "RelativeToolTip": "giaodien0502\\Views\\KichThuocMong.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:38:49.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KichThuocMong.xaml",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\KichThuocMong.xaml",
+              "RelativeDocumentMoniker": "giaodien0502\\Views\\KichThuocMong.xaml",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\KichThuocMong.xaml",
+              "RelativeToolTip": "giaodien0502\\Views\\KichThuocMong.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T05:38:14.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "diachat.xaml.cs",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\diachat.xaml.cs",
+              "RelativeDocumentMoniker": "giaodien0502\\Views\\diachat.xaml.cs",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\diachat.xaml.cs",
+              "RelativeToolTip": "giaodien0502\\Views\\diachat.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:39:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "diachat.xaml",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\diachat.xaml",
+              "RelativeDocumentMoniker": "giaodien0502\\Views\\diachat.xaml",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\diachat.xaml",
+              "RelativeToolTip": "giaodien0502\\Views\\diachat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T04:34:50.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "giaodien0502\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\MainWindow.xaml.cs",
+              "RelativeToolTip": "giaodien0502\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:18:29.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "giaodien0502\\MainWindow.xaml",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\MainWindow.xaml",
+              "RelativeToolTip": "giaodien0502\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T03:34:22.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaiTrong.xaml.cs",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\TaiTrong.xaml.cs",
+              "RelativeDocumentMoniker": "giaodien0502\\Views\\TaiTrong.xaml.cs",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\Views\\TaiTrong.xaml.cs",
+              "RelativeToolTip": "giaodien0502\\Views\\TaiTrong.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:43:32.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\App.xaml",
+              "RelativeDocumentMoniker": "giaodien0502\\App.xaml",
+              "ToolTip": "E:\\tin h\u1ECDc\\\u0110\u1ED3 \u00E1n l\u1EADp tr\u00ECnh\\giaodien0502\\App.xaml",
+              "RelativeToolTip": "giaodien0502\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-09T10:26:23.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
